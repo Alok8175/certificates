@@ -1,0 +1,17 @@
+.sub-box11, .sub-box12{
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.list{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.square{
+    width: 60px;
+    height: 60px;
+}
+
+.box1{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
